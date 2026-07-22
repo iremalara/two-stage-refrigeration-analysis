@@ -1,2 +1,2 @@
 # two-stage-refrigeration-analysis
-Thermodynamic and exergetic analysis of a multi-stage vapor compression cycle.
+Thermodynamic and exergy analysis of a multi-stage vapor compression cycle.
